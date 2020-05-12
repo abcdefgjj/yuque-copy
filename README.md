@@ -31,9 +31,9 @@ npm start src/index.js
 
    可新建文档进行富文本编辑，并选择仓库进行分类保存。文本保存后写入localStorage，dashboard页面按创建时间倒序展示所有文档。
 
-   <img src="./src/img/超链接.png" alt="超链接" style="zoom:25%;" />点击该按钮可以添加超链接
-
-   <img src="./src/img/图片.png" style="zoom:25%;" />点击该按钮可以添加网络图片、视频和音频，只支持url。支持的多媒体格式有jpg、jpeg、png、svg、gif（以上大小写均可），mp4、mkv、rmvb、mov、asf、avi，wav、flac（大小写均可）、MP3（大小写均可）、wma（大小写均可）
+   支持添加超链接
+   
+   支持添加网络图片、视频和音频，只支持url。支持的多媒体格式有jpg、jpeg、png、svg、gif（以上大小写均可），mp4、mkv、rmvb、mov、asf、avi，wav、flac（大小写均可）、MP3（大小写均可）、wma（大小写均可）
 
    
 
